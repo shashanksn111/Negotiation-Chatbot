@@ -1,12 +1,3 @@
-## Demo
-
-Watch the demonstration video:
-
-[![Negotiation Chatbot Demo](https://www.loom.com/share/0ab5dc2f585941a1ab652171cfa74ba8?sid=97b6e0e5-80f0-4a53-ae99-6e351cc8020b)
-
-
-
-
 Introduction
 
 This repository provides two implementations for a negotiation API and a command-line tool, both leveraging Python to simulate a price negotiation process. You can choose the method that best suits your integration needs:
